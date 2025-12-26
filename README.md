@@ -67,6 +67,7 @@ spotify-clone/
 
 ## 👨‍💻 Author
 -- Sai Ganesh Mamidi
+
 GitHub: https://github.com/Saiganesh092002/Spotify-clone.git
 
 
