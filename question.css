@@ -1,0 +1,137 @@
+#question{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 86vh;
+    background:#f9f9f9;
+}
+#ans{
+                        /* ##problem with boder## */
+
+    /* border: 2px solid #f53636; */
+    height: inherit;
+    width: 77vw;
+    margin: auto;
+    padding-top: 50px;
+}
+#question h2{
+    /* border: 2px solid red; */
+    font-size: 40px;
+    text-align: center;
+    margin-top: 70px;
+}
+#question h3{
+    /* border: 2px solid rgb(0, 255, 38); */
+    font-size: 25px;
+    text-align: center;
+    margin-top: 15px;
+}
+#ans ul{
+    /* border: 2px solid; */
+    position: relative;
+    top: 80px;
+    width: 1134px;
+    height: 322px;
+    list-style: none;
+    margin: auto;
+    
+}
+#ans li{
+    /* border: 2px solid rgb(0, 255, 68); */
+    width: inherit;
+    height: 78px;
+    display: flex;
+    border-bottom: 2px solid rgba(0, 0, 0, .12);
+    background-color:#fff;
+}
+#ans li:hover{
+    background-color:#f0f0f0;
+}
+#li-1 div{
+    /* border: 2px solid; */
+    margin-top: 30px;
+    width: 90%;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    padding-left: 25px;
+
+}
+#li-1 div:hover{
+    text-decoration:underline;
+}
+#li-1 svg{
+    /* border: 2px rebeccapurple; */
+    width: 24px;
+    height: 24px;
+     font-weight: 900;
+    margin-left: 50px;
+    margin-top: 30px;
+    rotate:(180deg);
+}
+#li-2 div{
+    /* border: 2px solid; */
+    margin-top: 30px;
+    width: 90%;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    padding-left: 25px;
+
+}
+#li-2 div:hover{
+    text-decoration:underline;
+}
+#li-2 svg{
+    /* border: 2px rebeccapurple; */
+    width: 24px;
+    height: 24px;
+     font-weight: 900;
+    margin-left: 50px;
+    margin-top: 30px;
+    rotate:(180deg);
+}
+#li-3 div{
+    /* border: 2px solid; */
+    margin-top: 30px;
+    width: 90%;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    padding-left: 25px;
+
+}
+#li-3 div:hover{
+    text-decoration:underline;
+}
+#li-3 svg{
+    /* border: 2px rebeccapurple; */
+    width: 24px;
+    height: 24px;
+     font-weight: 900;
+    margin-left: 50px;
+    margin-top: 30px;
+    rotate:(180deg);
+}
+
+#li-4 div{
+    /* border: 2px solid; */
+    margin-top: 30px;
+    width: 90%;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    padding-left: 25px;
+
+}
+#li-4 div:hover{
+    text-decoration:underline;
+}
+#li-4 svg{
+    /* border: 2px rebeccapurple; */
+    width: 24px;
+    height: 24px;
+    font-weight: 900;
+    margin-left: 50px;
+    margin-top: 30px;
+    rotate:(180deg);
+}
