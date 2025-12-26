@@ -5,12 +5,6 @@ The aim of this project is to practice frontend development by recreating the de
 
 ---
 
-## 🚀 Live Demo
-
-🔗 (Add your deployed website link here)
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5  
@@ -76,5 +70,5 @@ spotify-clone/
 GitHub: https://github.com/Saiganesh092002/Spotify-clone.git
 
 
-## 📁 Folder Structure
+
 
